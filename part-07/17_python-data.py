@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
-API_KEY = "9dd4070b1af53b5a507eb1031dc6b9ae"
+API_KEY = "YOUR_API_KEY"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 # fetching real-time weather data
